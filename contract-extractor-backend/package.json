@@ -1,0 +1,6 @@
+{
+  "name": "contract-extractor-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Serverless endpoint that reads uploaded contracts and extracts vendor, facility, dates, cost, and terms. Holds the Anthropic API key server-side so it's never exposed to the browser."
+}
